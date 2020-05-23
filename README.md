@@ -20,4 +20,4 @@ The page is deployed to GitHub pages
 
 ## Have fun on the page and use for educational purposes or just for your own curiosity!
 
-* https://zibrahim2046.github.io/Space-Vacation/
+* https://cshanebrown78.github.io/SpaceVacation/
