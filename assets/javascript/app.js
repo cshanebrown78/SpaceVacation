@@ -157,8 +157,6 @@ $(document).one("click",".planet-container", function() {
   $(".ready").empty();
   userPlanet = $(this).attr("data");
   planetPicked = true;
-  // console.log(userPlanet);
-  // console.log(this);
   localStorage.setItem("userPlanet", userPlanet);
   var queryURL = "https://api.le-systeme-solaire.net/rest/bodies/" + userPlanet;
   var planetChoiceDiv = $("<div>");
